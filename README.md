@@ -1,6 +1,6 @@
-# codify_task
+# Codify task
 
-# Развертывание, вручную. Внутри requirements.txt
+# Развертывание вручную. Внутри requirements.txt
 
 ## Database (postgresql)
 
